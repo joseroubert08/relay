@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "babel-runtime": "^6.6.1",
-    "fbjs": "^0.8.1",
+    "fbjs": "^2.0.0",
     "react-static-container": "^1.0.1"
   },
   "peerDependencies": {
