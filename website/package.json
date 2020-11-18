@@ -18,6 +18,6 @@
     "react-page-middleware": "git://github.com/facebook/react-page-middleware.git",
     "request": "*",
     "serve-static": "1.7.1",
-    "spec-md": "0.3.7"
+    "spec-md": "0.4.7"
   }
 }
