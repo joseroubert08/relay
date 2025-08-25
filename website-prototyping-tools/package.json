@@ -32,7 +32,7 @@
     "react-relay": "../",
     "relay-local-schema": "0.3.0",
     "style-loader": "0.12.3",
-    "webpack": "^1.12.14"
+    "webpack": "^2.2.0"
   },
   "scripts": {
     "start": "webpack --watch --progress --colors",
